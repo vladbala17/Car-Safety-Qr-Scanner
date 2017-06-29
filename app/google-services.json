@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "339948674960",
+    "firebase_url": "https://car-safety-qr-scanner.firebaseio.com",
+    "project_id": "car-safety-qr-scanner",
+    "storage_bucket": "car-safety-qr-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339948674960:android:ffa3ff0f7aaa32a1",
+        "android_client_info": {
+          "package_name": "com.vlad.licenta.carsafetyqrscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339948674960-r3lef74tvscomc1akq325mqc5jdpfab3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7JXdXMjZMqQfbIiF0Vxo7DLxakBFxGqs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
